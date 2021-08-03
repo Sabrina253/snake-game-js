@@ -1,4 +1,4 @@
-# snake-game-js
+# snake-game-js.
 Clássico jogo da cobrinha (bem simples) em JavaScript.
 <img src="sprite-snake.jpg" alt="drawing" width="50"/>
 
